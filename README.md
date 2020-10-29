@@ -1,4 +1,4 @@
-![](leisure.png) ![](cat.png) ![](laptop.png) 
+![](leisure.png) ![](laptop.png) 
 
  ### I am Pinakesh Roy ![](Octocat.svg)
 a student of CSE @UEM,Jaipur and an aspirant for working in the vast field of Deep Learning,Machine Learning & Data Science . With every day passing by I am trying my best to dig in deep and perceive the real beauty of Computer Science in the field of ENGINEERING .
